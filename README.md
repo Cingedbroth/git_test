@@ -1,0 +1,1 @@
+This is Cinged's first git project!
